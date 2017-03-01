@@ -14,3 +14,4 @@ Note: Internal will be uploaded soon, if it's not there check again later.
 ### Tools used:
   - VS 2015
   - IDA Pro
+  - [Source SDK](https://github.com/ValveSoftware/source-sdk-2013)
